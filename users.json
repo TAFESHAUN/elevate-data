@@ -1,0 +1,7 @@
+﻿[
+  { "id": 1, "fullName": "Alex Green",   "email": "alex@example.com",          "role": "Admin"     },
+  { "id": 2, "fullName": "Sam Lee",      "email": "sam.lee@example.com",       "role": "Staff"     },
+  { "id": 3, "fullName": "Jordan Cruz",  "email": "jordan.cruz@example.com",   "role": "Volunteer" },
+  { "id": 4, "fullName": "Taylor Singh", "email": "taylor.singh@example.com",  "role": "Community" },
+  { "id": 5, "fullName": "Morgan Wu",    "email": "morgan.wu@example.com",     "role": "Community" }
+]

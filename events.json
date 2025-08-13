@@ -1,0 +1,26 @@
+﻿[
+  {
+    "id": 101,
+    "title": "Morning Yoga",
+    "date": "2025-08-12",
+    "startTime": "07:30",
+    "endTime": "08:30",
+    "location": "Community Hall A",
+    "category": "Fitness",
+    "description": "Beginner-friendly yoga session.",
+    "capacity": 20,
+    "isCancelled": false
+  },
+  {
+    "id": 102,
+    "title": "Trivia Night",
+    "date": "2025-08-12",
+    "startTime": "19:00",
+    "endTime": "21:00",
+    "location": "Civic Centre",
+    "category": "Social",
+    "description": "Teams of 4–6 welcome.",
+    "capacity": 40,
+    "isCancelled": false
+  }
+]
