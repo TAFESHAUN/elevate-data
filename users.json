@@ -4,4 +4,5 @@
   { "id": 3, "fullName": "Jordan Cruz", "email": "jordan.cruz@example.com",    "role": "Volunteer", "active": true },
   { "id": 4, "fullName": "Taylor Singh","email": "taylor.singh@example.com",   "role": "Community", "active": true },
   { "id": 5, "fullName": "Morgan Wu",   "email": "morgan.wu@example.com",      "role": "Community", "active": true }
+  { "id": 6, "fullName": "Bob Jobs",   "email": "jobsbobby@jobobus.com",      "role": "Admin", "active": false }
 ]
